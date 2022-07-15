@@ -5,6 +5,9 @@
 #
 # Save all denials line by line to denials.txt in the same folder as code
 # Fixes are saved to fixes.txt
+# Copyright (C) 2020-2021 Giovix92
+# Copyright (C) 2022 Iceows
+
 
 import re
 with open("denials.txt") as denfile:
